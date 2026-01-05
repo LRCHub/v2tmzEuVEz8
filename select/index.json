@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ADAMAS",
+  "base_artist": "LiSA",
+  "createdAt": "2026-01-05T12:50:24.534308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_ADAMAS_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_ADAMAS_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_ADAMAS_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ADAMAS - LEO-NiNE ver.",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/04_ADAMAS_-_LEO-NiNE_ver._LiSA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ADAMAS (LEO-NiNE version)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_ADAMAS_(LEO-NiNE_version)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adamas",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/06_Adamas_Selphius.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nimmer mehr (Die Ballade von Adamas)",
+      "artist": "Corvus Corax feat. Marcus Gorstein",
+      "has_synced": false,
+      "path": "select/07_Nimmer_mehr_(Die_Ballade_von_Adamas)_Corvus_Corax_feat._Marcus_Gorstein.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Adamas",
+      "artist": "Rome",
+      "has_synced": false,
+      "path": "select/08_Adamas_Rome.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Adamas (From \"Sword Art Online\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_Adamas_(From__Sword_Art_Online_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Adamas",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/10_Adamas_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Adamas [Edited Version]",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/11_Adamas_[Edited_Version]_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/12_ADAMAS_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/13_ADAMAS_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ADAMAS (From \"Sword Art Online: Alicization\")",
+      "artist": "ShiroNeko",
+      "has_synced": false,
+      "path": "select/14_ADAMAS_(From__Sword_Art_Online__Alicization_)_ShiroNeko.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/15_ADAMAS_LiSA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ADAMAS",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_ADAMAS_LiSA.txt"
+    }
+  ]
+}
